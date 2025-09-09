@@ -1,1 +1,4 @@
-[Read](https://eplnm.github.io/closure/)
+- [A Priori](https://eplnm.github.io/closure/)
+- [Likelihood]()
+- [Posteriori]()
+
